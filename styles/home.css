@@ -1,0 +1,14 @@
+.fade-in {
+  animation-duration: 3s;
+  animation-name: appearance;
+}
+
+@keyframes appearance {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 100%;
+  }
+}

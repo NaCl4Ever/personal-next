@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "company": "Vmware",
+      "title": "Senior Frontend Engineer",
+      "start": 2021,
+      "end": null,
+      "experiences": [
+        "Worked primarily in React.JS modernizing application by migrating stores from alt.js to Redux.",
+      "Created preference feature to allow fine tuning of observability intake and output.",
+      "Reduced redundancies within component library and replaced with more reusable components."
+      ]
+    },
+    {
+      "company": "Walmart",
+      "title": "Frontend Tech Lead",
+      "start": 2019,
+      "end": 2021,
+      "experiences": [
+        "Worked primarily in React.JS modernizing application by migrating stores from alt.js to Redux.",
+      "Created preference feature to allow fine tuning of observability intake and output.",
+      "Reduced redundancies within component library and replaced with more reusable components."
+      ]
+    },
+    {
+      "company": "Walmart",
+      "title": "Software Developer",
+      "start": 2017,
+      "end": 2018,
+      "experiences": [
+        "Led team of 3 developers transitioning project from redux and js to Mobx and typescript",
+        "Worked across Angular and React projects",
+        "Created new template project for future projects to use standardized platform and spead up boostrapping new projects.",
+        "Remodeled a report used 4000 associates from excel to a fully interactive dashboard with drilldown support"
+      ]
+    },
+    {
+      "company": "Pam Transport",
+      "title": "Software Developer",
+      "start": 2016,
+      "end": 2017,
+      "experiences": [
+        "Revitalized existing api bulk entry to improve write time from 2 hours to 20 min",
+        "Prepared foundation of website rewrite from Php to Laravel",
+        "Oversaw benefits program audit and provided improved data visualization for HR and Accounting departments"
+      ]
+    },
+    {
+      "company": "Walmart",
+      "title": "Associate Software Developer",
+      "start": 2015,
+      "end": 2016,
+      "experiences": [
+        "Began work on transitioning from vanilla JS to React and Angular.js",
+        "Improved mobile friendliness for Ipad users across 3 different applications",
+        "Reworked redudundant sql queries to improve speed and maintainability"
+      ]
+    }
+  ]
+}
