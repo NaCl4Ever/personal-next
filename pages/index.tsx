@@ -15,12 +15,12 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>Pect Projects</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-      <Grid.Container gap={2} justify="center" css={{width:"80vw", mw:"800px", margin: "auto"}}>
+      <Grid.Container gap={2} justify="center" css={{width:"80vw", margin: "auto"}}>
       <Grid xs={12} justify='center'>
       <HeaderDisplay/>
       </Grid>
