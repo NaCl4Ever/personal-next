@@ -23,7 +23,7 @@ export default function ExperienceCard(props: ExperienceCardProps) {
   
 
   return(
-    <Card className={"fade-in"} css={{ mw: "600px", height: "fit-content" }}  >
+    <Card className={"experience-card fade-in"} css={{ mw: "600px", height: "fit-content" }}  >
     <Card.Header >
       <Container  css={{ display: 'flex', alignItems: 'center', flexDirection: "column" }}>
         <Text h3>{company} - {title}</Text>
@@ -42,8 +42,7 @@ export default function ExperienceCard(props: ExperienceCardProps) {
       experiences.map((experience, index) => {
         return(
           <Container key={index}>
-            <Text  h5 className="fade-in"> <i className="fa-solid fa-caret-right fa-fade"></i> {experience}</Text>
-            <Spacer y={2}/>
+            <Text blockquote className="fade-in"> <i className="fa-solid fa-caret-right fa-fade"></i> {experience}</Text>
           </Container>
         )
       })

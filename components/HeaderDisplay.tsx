@@ -3,7 +3,7 @@ import Image from 'next/image';
 export default function HeaderDisplay() {
   return ( <Card css={{ mw: "300px"}}>
         <Card.Body css={{ display: 'flex', alignItems: 'center' }}>
-        <Image  src="/avatar.jpg" height={128} width={128} alt="avatar image"/>
+        <Image  src="/avatar.jpg" id="header-avatar" height={128} width={128} alt="avatar image"/>
           <Text h2>Jordan Pectyo</Text>
           <Text h4>Frontend Developer</Text>
           <div style={{display: "inline-flex", alignItems: "center"}}>

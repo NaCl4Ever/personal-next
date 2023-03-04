@@ -20,7 +20,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-      <Grid.Container gap={1} justify="center" css={{width:"80vw", margin: "auto"}}>
+      <Grid.Container gap={3} justify="center" css={{width:"80vw", margin: "auto"}}>
       <Grid xs={12} justify='center'>
       <HeaderDisplay/>
       </Grid>

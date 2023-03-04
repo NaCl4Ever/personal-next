@@ -12,3 +12,12 @@
     opacity: 100%;
   }
 }
+
+#header-avatar {
+  border-radius: 25%;
+  border: solid 3px black;
+}
+
+.experience-card:hover {
+  transform: scale(1.05);
+}
