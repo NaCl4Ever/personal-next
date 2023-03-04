@@ -6,7 +6,7 @@
       "start": 2021,
       "end": null,
       "experiences": [
-        "Worked primarily in React.JS modernizing application by migrating stores from alt.js to Redux.",
+        "Contributed to migration effort from class based React and Alt.js to functional components and Redux",
       "Created preference feature to allow fine tuning of observability intake and output.",
       "Reduced redundancies within component library and replaced with more reusable components."
       ]
@@ -17,9 +17,9 @@
       "start": 2019,
       "end": 2021,
       "experiences": [
-        "Worked primarily in React.JS modernizing application by migrating stores from alt.js to Redux.",
-      "Created preference feature to allow fine tuning of observability intake and output.",
-      "Reduced redundancies within component library and replaced with more reusable components."
+        "Led team of 3 developers transitioning projects from redux and JS to MOBX and typescript",
+      "Researched and developed an inhouse observability tool for error tracing",
+      "Remodeled multiple excel reports into fully interactive dashboards with drilldown support, and vastly improved speed"
       ]
     },
     {
@@ -28,10 +28,9 @@
       "start": 2017,
       "end": 2018,
       "experiences": [
-        "Led team of 3 developers transitioning project from redux and js to Mobx and typescript",
-        "Worked across Angular and React projects",
-        "Created new template project for future projects to use standardized platform and spead up boostrapping new projects.",
-        "Remodeled a report used 4000 associates from excel to a fully interactive dashboard with drilldown support"
+        "Designed automated regression strategy that reduced testing from 2 weeks to 1 hour",
+        "Established testing standards for team with guided demo sessions and trainings.",
+        "Worked on migration from ext.js to Angular 4.0"
       ]
     },
     {
@@ -40,8 +39,8 @@
       "start": 2016,
       "end": 2017,
       "experiences": [
-        "Revitalized existing api bulk entry to improve write time from 2 hours to 20 min",
-        "Prepared foundation of website rewrite from Php to Laravel",
+        "Streamlined existing api batch job from taking 2+ hours to 20 minutes for daily job.",
+        "Led website remodel into current technologies and mobile friendly User Interface",
         "Oversaw benefits program audit and provided improved data visualization for HR and Accounting departments"
       ]
     },
@@ -51,9 +50,9 @@
       "start": 2015,
       "end": 2016,
       "experiences": [
-        "Began work on transitioning from vanilla JS to React and Angular.js",
-        "Improved mobile friendliness for Ipad users across 3 different applications",
-        "Reworked redudundant sql queries to improve speed and maintainability"
+        "Updated all existing applications to support iPad format and sizing",
+        "Improved SQL queries by removing redundant and applied new logic for rigidity",
+        "Prepared foundations for transitioning to React.js from Vanilla JS"
       ]
     }
   ]
