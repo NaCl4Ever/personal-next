@@ -20,13 +20,13 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-      <Grid.Container gap={2} justify="center" css={{width:"80vw", margin: "auto"}}>
+      <Grid.Container gap={1} justify="center" css={{width:"80vw", margin: "auto"}}>
       <Grid xs={12} justify='center'>
       <HeaderDisplay/>
       </Grid>
       {
         Experiences.data.map(({title, company, experiences, start,end}, index) => {
-          return (<Grid xs={12}  justify='center' key={index}>
+          return (<Grid xs={12} md={6}  justify='center' key={index}>
             <ExperienceCard title={title} company={company} start={start} end={end} experiences={experiences}/>
           </Grid>)
         })

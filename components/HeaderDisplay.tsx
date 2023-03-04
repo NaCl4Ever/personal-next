@@ -30,7 +30,7 @@ export default function HeaderDisplay() {
               </Tooltip>
             </Button.Group>
           </div>
-          <Container css={{display: "flex", justifyContent: "space-between", px: "8px"}}>
+          <Container css={{display: "flex", justifyContent: "space-between", padding: "16px"}}>
           <i className="fa-brands fa-square-js fa-xl"></i>
           <i className="fa-brands fa-react fa-xl"></i>
           <i className="fa-brands fa-angular fa-xl"></i>
