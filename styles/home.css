@@ -18,6 +18,31 @@
   border: solid 3px black;
 }
 
+#info-panel {
+  position: absolute;
+  border-radius: 5%;
+  top: 0px;
+  left: 0px;
+  transition: all .5s;
+}
+
+#info-panel > .content {
+ opacity: 0;
+ padding: 8px;
+ transition: all 1s 0s;
+ background: none
+
+}
+
+#info-panel:hover {
+  background: white;
+  box-shadow: 6px 5px 6px 0px #cccccc;
+}
+#info-panel:hover >  .content {
+  opacity: 1;
+ 
+}
+
 .experience-card:hover {
   transform: scale(1.05);
 }
